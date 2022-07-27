@@ -6,3 +6,4 @@ accounts:
     username: root
     password: password1234
     ddl-mode: update
+  allow-get-accounts: false
