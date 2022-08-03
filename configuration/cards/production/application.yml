@@ -1,0 +1,8 @@
+server:
+  port: 7779
+cards:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cards
+    username: root
+    password: password1234
+    ddl-mode: update
